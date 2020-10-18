@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `TicoD's Blog`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Kwon Dohun`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `'-'`,
+    siteUrl: `https://ticod.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      // twitter: `kylemathews`,
+      youtube: `UC_q6aWqB3EU-Zg9HfWxqR5g?view_as=subscriber`,
     },
   },
   plugins: [
