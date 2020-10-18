@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: `https://ticod.github.io/`,
     social: {
       // twitter: `kylemathews`,
-      youtube: `UC_q6aWqB3EU-Zg9HfWxqR5g?view_as=subscriber`,
+      youtube: `channel/UC_q6aWqB3EU-Zg9HfWxqR5g`,
     },
   },
   plugins: [
