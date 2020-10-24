@@ -3,13 +3,14 @@ module.exports = {
     title: `TicoD's Blog`,
     author: {
       name: `Kwon Dohun`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `개발자로 성장중...`,
     },
     description: `'-'`,
     siteUrl: `https://ticod.github.io/`,
     social: {
-      // twitter: `kylemathews`,
       youtube: `channel/UC_q6aWqB3EU-Zg9HfWxqR5g`,
+      github: `ticod`,
+      email: ``,
     },
   },
   plugins: [
