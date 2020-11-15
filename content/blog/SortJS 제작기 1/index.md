@@ -4,12 +4,10 @@ date: "2020-10-29T20:48:00.000Z"
 description: "JS로 정렬 시각화"
 ---
 
-# SortJS 제작기 1
 
 최근 스터디에서 정렬에 대해 정리하면서, 아래와 같이 시각화해보고 싶다는 생각이 들었다.
 
-
-
+![https://commons.wikimedia.org/wiki/File:Sorting_quicksort_anim.gif](https://commons.wikimedia.org/wiki/File:Sorting_quicksort_anim.gif)
 (출처: https://commons.wikimedia.org/wiki/File:Sorting_quicksort_anim.gif)
 
 마침 최근에 노마드 코더님의 강의 중 JS로 그림판 만들기 ? 라는 강의를 보았고, 여기서 배운 것을 바탕으로 canvas 태그에 막대그래프를 그린 후, 정렬 진행 과정을 보여주면 되겠다 라는 생각이 들어서 만들게 되었다.
