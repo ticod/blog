@@ -39,6 +39,6 @@ setTimeout에 무조건 함수를 넣어야 한다고 생각하고 있었는데,
 
 현재 작업 중인 결과물을 깃허브 페이지로 만들어놨다.
 
-[https://ticod.github.io/SortJS/](https://ticod.github.io/SortJS/)
+[https://ticod.github.io/sortjs/](https://ticod.github.io/sortjs/)
 
 일단 버블, 선택, 삽입 정렬을 구현해 놓은 상태이고, 그 외 정렬들도 js로 구현해서 시각화할 생각이다.
