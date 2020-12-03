@@ -51,7 +51,7 @@ OSI 4계층(transport)에 해당된다. 안정성, 신뢰성을 보장한다.
 
         송신측에서 window에 데이터를 담고, 수신측에 전송한다. 수신측에서 ACK가 오면 ACK가 온 수 만큼 window의 경계를 아직 전송하지 않은 데이터로 넓힌다.
 
-        ![Sliding Window](.\SlidingWindow.png)
+        ![Sliding Window](SlidingWindow.png)
 
 5. **Congestion Control(혼잡 제어)**
 
@@ -104,7 +104,7 @@ OSI 4계층(transport)에 해당된다. 안정성, 신뢰성을 보장한다.
 - TCP 헤더는 20 ~ 60byte로 구성됨
 - TCP 헤더 구조
 
-![TCP Header](.\TCPHeader.png)
+![TCP Header](TCPHeader.png)
 
 - 구조 설명
   - Source Port : 송신 측 Port
@@ -142,7 +142,7 @@ OSI 4계층(transport)에 해당된다.
 
 - 8바이트만 사용
 
-![UDP Header](.\udp-1606970296668.png)
+![UDP Header](udp-1606970296668.png)
 
 - Source/Destination Port : 송신/수신 측 Port
 - Length : 패킷의 길이
@@ -161,7 +161,7 @@ OSI 4계층(transport)에 해당된다.
 
 -----
 
-![TCP UDP DIFF](.\tcpudp diff.png)
+![TCP UDP DIFF](tcpudp diff.png)
 
 
 
