@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `TicoD's Blog`,
+    title: `Ticod's Blog`,
     author: {
-      name: `Kwon Dohun`,
-      summary: `개발자로 성장중...`,
+      name: `Dohun Kwon`,
+      summary: `주니어 백엔드 개발자 권도훈입니다.`,
     },
     description: `'-'`,
     siteUrl: `https://ticod.github.io/`,
