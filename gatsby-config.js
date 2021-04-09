@@ -3,7 +3,7 @@ module.exports = {
     title: `Ticod's Blog`,
     author: {
       name: `Dohun Kwon`,
-      summary: `주니어 백엔드 개발자 권도훈입니다.`,
+      summary: `반갑습니다! 성장하는 주니어 백엔드 개발자 권도훈입니다.`,
     },
     description: `'-'`,
     siteUrl: `https://ticod.github.io/`,
